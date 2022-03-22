@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: rucola
+Version: 0.0.1
+Summary: Python Boilerplate contains all the boilerplate you need to create a Python package.
+Home-page: https://github.com/s-alexandrov/rucola
+Author: Sergey Alexandrov
+Author-email: s.alexandrov@ngs.ru
+License: UNKNOWN
+Keywords: rucola
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Requires-Python: >=3.6
+
+======
+rucola
+======
+
+
+
+
+.. image:: https://pyup.io/repos/github/s-alexandrov/rucola/shield.svg
+     :target: https://pyup.io/repos/github/s-alexandrov/rucola/
+     :alt: Updates
+
+
+
+This is a simple example package Rucola. You can use.
+
+
+
+Features
+--------
+
+* TODO
+
+Credits
+-------
+
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+
+
+=======
+History
+=======
+
+0.0.1 (2022-03-21)
+------------------
+
+* First release on PyPI.
+
+
